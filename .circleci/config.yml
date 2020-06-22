@@ -64,7 +64,7 @@ jobs:
       - run :
           name: Log-in to docker
           command: |
-          aws ecr get-login
+            aws ecr get-login
 
       # - run:
       #     name: Build service
