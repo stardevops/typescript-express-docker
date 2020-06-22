@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:8
+FROM mhart/alpine-node:12
 MAINTAINER Aurélien Hervé <mail@aurelien-herve.com>
 
 RUN mkdir /app
